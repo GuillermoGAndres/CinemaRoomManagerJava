@@ -12,4 +12,4 @@ java cinema.Cinema
 ## Compilation
 ~~~
 javac cinema/Cinema.java
-~~
+~~~
